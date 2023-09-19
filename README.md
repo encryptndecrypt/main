@@ -1,6 +1,7 @@
 # EncryptNDecrypt - Secure Messaging Web Application
 
-Saroj Shandiliya
+Developer: Saroj Shandiliya
+
 EncryptNDecrypt is an advanced and highly secure messaging application built using Django and PostgreSQL as the database, hosted on Heroku. This private messaging platform offers not only robust security features but also a wide range of messaging modes and efficient message retrieval capabilities. Whether you need to communicate privately or access messages seamlessly, EncryptNDecrypt has you covered.
 
 ## Features
